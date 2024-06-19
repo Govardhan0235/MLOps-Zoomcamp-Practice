@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/52f9e87bcfe5422ab31a04e66b331f6e/artifacts
+end_time: 1718781283980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52f9e87bcfe5422ab31a04e66b331f6e
+run_name: polite-grub-127
+run_uuid: 52f9e87bcfe5422ab31a04e66b331f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718781271697
+status: 4
+tags: []
+user_id: codespace
